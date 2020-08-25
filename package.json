@@ -1,0 +1,12 @@
+{
+  "name": "streamdj-tg-bot",
+  "version": "1.0.0",
+  "description": "telegram bot for streamdj.ru",
+  "main": "index.js",
+  "repository": "https://github.com/Elephmoon/streamdj-tg-bot.git",
+  "author": "Elephmoon <alexandr.kizilow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
