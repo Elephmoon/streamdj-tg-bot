@@ -7,6 +7,14 @@
   "author": "Elephmoon <alexandr.kizilow@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1"
+    "axios": "^0.20.0",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
   }
 }
